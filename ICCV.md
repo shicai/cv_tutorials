@@ -1,3 +1,61 @@
+##ICCV 2015(http://pamitc.org/iccv15/tutorials.php)
+
+###How to Build a Digital Human Body
+Michael Black, Matthew Loper, Javier Romero, Gerard Pons-Moll, Naureen Mahmood, Federica Bogo
+
+http://bodymodelling.is.tuebingen.mpg.de/home
+
+###Removing Camera Blur: Tricks of the Trade, Insights and Applications
+Paolo Favaro, David Wipf, Jue Wang, Filip Sroubek
+
+https://sites.google.com/site/removingmotionblur/home
+
+###Computer Vision for Autonomous Driving
+Sebastian Ramos, Markus Enzweiler, Michael James, Will Maddern, Elmar Mair, Jonas Witt, Geoff Ballew
+
+https://sites.google.com/site/cvadtutorial15/home
+
+###From Statistical Image Processing to Probabilistic Deep Learning
+Iasonas Kokkinos, George Papandreou
+
+###Computational Time of Flight Imaging
+Mohit Gupta, Ramesh Raskar, Achuta Kadambi, Ayush Bhandari
+
+###Solving Minimal Problems
+Tomas Pajdla, Zuzana Kukelova, Kalle Astrom, Lurent Kneip, Changchang Wu
+
+http://cmp.felk.cvut.cz/minimal-iccv-2015/program.html
+
+###Tools for Efficient Object Detection
+Rogerio Feris, Piotr Dollar, Xiaoyu Wang, Kaiming He, Ross Girshick, Rodrigo Benenson
+
+http://mp7.watson.ibm.com/ICCV2015/ObjectDetectionICCV2015.html
+
+###Learning Deep Structured Models
+Alexander Schwing, Raquel Urtasun
+
+###Inference and Learning in Discrete Graphical Models: Theory and Practice
+Bogdan Savchynskyy, Joerg Kappes, Thorsten Beier, Sebastian Nowozin, Carsten Rother
+
+http://cvlab-dresden.de/research/optimization-and-learning/gm-tutorial-iccv2015/#downloads
+
+http://cvlab-dresden.de/wp-content/uploads/2015/12/inference.pdf
+
+http://cvlab-dresden.de/wp-content/uploads/2015/12/learning.pdf
+
+###Mathematics of Deep Learning
+Rene Vidal, Joan Bruna, Guillermo Sapiro
+
+http://www.vision.jhu.edu/tutorials/ICCV15-Tutorial-Math-Deep-Learning.htm
+
+http://www.vision.jhu.edu/tutorials/ICCV15-Tutorial-Math-Deep-Learning-Intro-Rene-Joan.pdf
+
+http://www.vision.jhu.edu/tutorials/ICCV15-Tutorial-Math-Deep-Learning-Rene.pdf
+
+http://www.vision.jhu.edu/tutorials/ICCV15-Tutorial-Math-Deep-Learning-Joan.pdf
+
+http://www.vision.jhu.edu/tutorials/ICCV15-Tutorial-Math-Deep-Learning-Raja.pdf
+
 ##ICCV 2013 (http://www.iccv2013.org/tutorials.php)
 
 ###Don't Relax: Why Non-Convex Algorithms are Often Needed for Sparse Estimation
@@ -91,7 +149,7 @@ file link not found, see a similar one from the same author:
 
 http://www.ucsp.edu.pe/sibgrapi2013/eproceedings/tutorials/T4-handouts.pdf
 
- 
+
 
 ##ICCV 2011 (http://www.iccv2011.org/program/tutorials)
 
@@ -182,7 +240,7 @@ http://cat.cvc.uab.es/~joost/data/ICCV2011PARTIIIA.pdf
 
 http://cat.cvc.uab.es/~joost/data/ICCV2011PARTIIIB.pdf
 
- 
+
 
 ##ICCV 2009 (http://yokoya.naist.jp/iccv2009/tutorials/index.html)
 
@@ -306,7 +364,7 @@ http://people.csail.mit.edu/torralba/shortCourseRLOC/slides/ICCV2009_Pictures_an
 
 http://people.csail.mit.edu/torralba/shortCourseRLOC/slides/ICCV2009_Dataset.pptx
 
- 
+
 
 ##ICCV 2007 (http://iccv2007.rutgers.edu/tutorials.htm)
 
@@ -364,7 +422,7 @@ http://www.csd.uoc.gr/~komod/ICCV07_tutorial/ICCV07_tutorial_vnk.ppt
 
 http://www.csd.uoc.gr/~komod/ICCV07_tutorial/ICCV07_tute.ppt
 
- 
+
 
 ##ICCV 2005 (http://web.archive.org/web/20060505041148/http://research.microsoft.com/iccv2005/Short_courses_schedule.htm)
 
@@ -429,7 +487,7 @@ link not found, see a journal version:
 
 http://research.microsoft.com/en-us/um/people/sbkang/publications/ijarc07-kang.pdf
 
- 
+
 
 ##ICCV 2003 (http://lear.inrialpes.fr/people/triggs/events/iccv03/courses.php)
 
